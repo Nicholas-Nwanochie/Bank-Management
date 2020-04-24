@@ -376,9 +376,9 @@ void intro()
 {
 	system("color a4");
 	cout<<"\n\n\t\t   ***Bank Management System***";
-	cout<<"\n\n\t\t\t\ Made By Mahir\n";
+	cout<<"\n\n\t\t\t\ Made By Nicholas Nwanochie\n";
 
-	cout<<"\n\t\t    ***Varendra University***";
+	cout<<"\n\t\t    ***Kennesaw State University***";
 	cout<<"\n\n\t\tPlease inter any alphabt to continue banking management"<<endl;
 	cin.get();
 }
